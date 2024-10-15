@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luke Hamm | Resume & Projects</title>
+    <title>Jack Lindsay | Resume & Projects</title>
     <style>
         /* Centering the resume and LinkedIn container */
         .resume-linkedin-container {
@@ -140,7 +140,7 @@
     <section id="resume-linkedin">
         <div class="resume-linkedin-container">
             <!-- Resume box -->
-            <a href="https://github.com/nosehairs/Jack-Lindsay-Portfolio/blob/main/rume.pdf" target="_blank">
+            <a href="https://github.com/nosehairs/Jack-Lindsay-Portfolio/raw/main/rume.pdf" target="_blank">
                 <div class="resume-box">
                     Resume
                 </div>
