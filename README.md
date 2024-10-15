@@ -140,7 +140,7 @@
     <section id="resume-linkedin">
         <div class="resume-linkedin-container">
             <!-- Resume box -->
-            <a href="path/to/Luke_Hamm_Resume.pdf" target="_blank">
+            <a href="https://github.com/nosehairs/Jack-Lindsay-Portfolio/blob/main/My%20Resume.docx" target="_blank">
                 <div class="resume-box">
                     Resume
                 </div>
