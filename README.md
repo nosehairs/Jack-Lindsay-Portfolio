@@ -100,15 +100,16 @@
             gap: 20px;
         }
 
+        /* Adjusting the size of the skill boxes and reducing font size for cleaner look */
         .skill-box {
             border: 2px solid #ddd;
             border-radius: 8px;
             padding: 10px 20px;
             background-color: #f4f4f4;
-            font-size: 18px;
+            font-size: 16px;
             font-weight: bold;
             text-align: center;
-            width: 100px;
+            width: 150px;  /* Increased width to fit text */
             transition: background-color 0.3s ease, transform 0.3s ease;
         }
 
@@ -141,6 +142,16 @@
     <!-- Projects Section -->
     <section id="projects">
         <h2>Projects</h2>
+
+        <!-- Sports Comm Project restored -->
+        <div class="project-card">
+            <a href="https://github.com/nosehairs/Jack-Lindsay-Portfolio/blob/main/Sportcomm-project.pdf" target="_blank">
+                <div class="project-content">
+                    <h3>Sports Communication Project</h3>
+                    <p>A comprehensive analysis of communication strategies used in sports, focusing on media relations, community engagement, and fan experience enhancement. This project emphasizes the impact of digital media in modern sports marketing.</p>
+                </div>
+            </a>
+        </div>
 
         <div class="project-card">
             <a href="https://bosoxinjection.com/posts/new-red-sox-acquisition-lucas-giolito-might-be-andrew-bailey-next-miracle-01hk6mz8pzkd" target="_blank">
