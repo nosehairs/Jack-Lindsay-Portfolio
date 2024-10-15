@@ -205,3 +205,9 @@
     </section>
 </body>
 </html>
+git clone https://github.com/nosehairs/Jack-Lindsay-Portfolio.git
+cd Jack-Lindsay-Portfolio
+cp /path/to/your/new/file/MLB-Salaries-Project.pdf ./Sportcomm-project.pdf
+git add Sportcomm-project.pdf
+git commit -m "Replaced Sportcomm project with MLB Salaries Project"
+git push origin main
