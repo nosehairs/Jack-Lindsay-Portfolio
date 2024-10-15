@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jack Lindsay | Resume & Projects</title>
+    <title>Luke Hamm | Resume & Projects</title>
     <style>
         /* Centering the resume and LinkedIn container */
         .resume-linkedin-container {
@@ -140,7 +140,7 @@
     <section id="resume-linkedin">
         <div class="resume-linkedin-container">
             <!-- Resume box -->
-            <a href="https://github.com/nosehairs/Jack-Lindsay-Portfolio/raw/main/rume.pdf" target="_blank">
+            <a href="https://github.com/nosehairs/Jack-Lindsay-Portfolio/blob/main/rume.pdf" target="_blank">
                 <div class="resume-box">
                     Resume
                 </div>
@@ -158,13 +158,13 @@
         <h2>Projects</h2>
 
         <div class="project-card">
-            <a href="path/to/MLB_Salaries_Project.pdf" target="_blank">
+            <a href="https://github.com/nosehairs/Jack-Lindsay-Portfolio/blob/main/Sportcomm-project.pdf" target="_blank">
                 <div class="project-content">
-                    <h3>MLB Salaries Project</h3>
-                    <p>Conducted an in-depth analysis of the relationship between MLB player salaries and on-field performance using statistical methods like regression analysis. Processed and visualized extensive player data to identify key trends and highlight discrepancies between compensation and performance, contributing to discussions on team financial efficiency.</p>
+                    <h3>Sports Communication Project</h3>
+                    <p>Explored various sports communication strategies including public relations, social media, and fan engagement. This project analyzes case studies and the impact of communication efforts on brand awareness and fan loyalty in sports teams.</p>
                 </div>
             </a>
-            <a href="https://github.com/yourgithubprofile/MLBSlaraiesCode.Rmd" download class="download-icon">
+            <a href="https://github.com/yourgithubprofile/SportsCommProject.Rmd" download class="download-icon">
                 <img src="path/to/R-logo.jpg" alt="Download R Code">
             </a>
         </div>
@@ -205,9 +205,3 @@
     </section>
 </body>
 </html>
-git clone https://github.com/nosehairs/Jack-Lindsay-Portfolio.git
-cd Jack-Lindsay-Portfolio
-cp /path/to/your/new/file/MLB-Salaries-Project.pdf ./Sportcomm-project.pdf
-git add Sportcomm-project.pdf
-git commit -m "Replaced Sportcomm project with MLB Salaries Project"
-git push origin main
