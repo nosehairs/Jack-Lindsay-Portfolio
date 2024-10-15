@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luke Hamm | Resume & Projects</title>
+    <title>Jack Lindsay | Resume & Projects</title>
     <style>
         /* Centering the resume and LinkedIn container */
         .resume-linkedin-container {
@@ -146,9 +146,9 @@
                 </div>
             </a>
 
-            <!-- LinkedIn logo -->
-            <a href="https://www.linkedin.com/in/luke-hamm-93ab3527b" target="_blank">
-                <img src="path/to/LinkedIn-logo.png" alt="LinkedIn" class="linkedin-logo">
+            <!-- Updated LinkedIn logo and link -->
+            <a href="https://www.linkedin.com/in/jack-lindsay-357547298" target="_blank">
+                <img src="/mnt/data/Color-of-the-LinkedIn-Logo.jpg" alt="LinkedIn" class="linkedin-logo">
             </a>
         </div>
     </section>
