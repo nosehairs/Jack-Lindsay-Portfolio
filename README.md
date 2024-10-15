@@ -87,21 +87,6 @@
             color: #fff;
         }
 
-        /* Download icon positioning and styling */
-        .download-icon {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            width: 30px;
-            height: 30px;
-            cursor: pointer;
-            transition: transform 0.3s ease;
-        }
-
-        .download-icon:hover {
-            transform: scale(1.1);
-        }
-
         /* Center the skills section heading */
         #about h2 {
             text-align: center;
@@ -146,7 +131,7 @@
                 </div>
             </a>
 
-            <!-- Updated LinkedIn logo and link -->
+            <!-- LinkedIn logo -->
             <a href="https://www.linkedin.com/in/jack-lindsay-357547298" target="_blank">
                 <img src="/mnt/data/Color-of-the-LinkedIn-Logo.jpg" alt="LinkedIn" class="linkedin-logo">
             </a>
@@ -158,38 +143,20 @@
         <h2>Projects</h2>
 
         <div class="project-card">
-            <a href="https://github.com/nosehairs/Jack-Lindsay-Portfolio/blob/main/Sportcomm-project.pdf" target="_blank">
+            <a href="https://bosoxinjection.com/posts/new-red-sox-acquisition-lucas-giolito-might-be-andrew-bailey-next-miracle-01hk6mz8pzkd" target="_blank">
                 <div class="project-content">
-                    <h3>Sports Communication Project</h3>
-                    <p>Explored various sports communication strategies including public relations, social media, and fan engagement. This project analyzes case studies and the impact of communication efforts on brand awareness and fan loyalty in sports teams.</p>
+                    <h3>New Red Sox Acquisition Lucas Giolito Might Be Andrew Bailey's Next Miracle</h3>
+                    <p>Analyzed the potential impact of Lucas Giolito’s acquisition by the Boston Red Sox and how pitching coach Andrew Bailey might play a key role in revitalizing his performance.</p>
                 </div>
-            </a>
-            <a href="https://github.com/yourgithubprofile/SportsCommProject.Rmd" download class="download-icon">
-                <img src="path/to/R-logo.jpg" alt="Download R Code">
             </a>
         </div>
 
         <div class="project-card">
-            <a href="path/to/Hackathon.pdf" target="_blank">
+            <a href="https://bosoxinjection.com/posts/red-sox-are-falling-behind-again-as-boring-offseason-foreshadows-disappointing-2024-01hh57x8sbca" target="_blank">
                 <div class="project-content">
-                    <h3>Reds Hackathon</h3>
-                    <p>Collaborative advanced data analysis working with large data sets of MLB statistics. Used predictive modeling to estimate which pitchers would be better suited in a new role.</p>
+                    <h3>Red Sox Falling Behind Again as Boring Offseason Foreshadows Disappointing 2024</h3>
+                    <p>Provided insight into the Red Sox’s offseason moves, discussing how their quiet strategy might result in a lackluster 2024 season.</p>
                 </div>
-            </a>
-            <a href="https://github.com/yourgithubprofile/RedsHackathon.Rmd" download class="download-icon">
-                <img src="path/to/R-logo.jpg" alt="Download R Code">
-            </a>
-        </div>
-
-        <div class="project-card">
-            <a href="path/to/Unit_1_Project.pdf" target="_blank">
-                <div class="project-content">
-                    <h3>Fantasy Football Player Value</h3>
-                    <p>Developed an analytical tool using historical NFL data to assess fantasy football player performance, tracking week-by-week trends to determine how long a player must consistently over- or under-perform to justify reassessing their value. The analysis leverages statistical methods to offer insights for decision-making in player trades, adds, or drops.</p>
-                </div>
-            </a>
-            <a href="https://github.com/yourgithubprofile/fantasyplayervaluecode.ipynb" download class="download-icon">
-                <img src="path/to/Python-logo.jpg" alt="Download Python Code">
             </a>
         </div>
     </section>
@@ -198,9 +165,9 @@
     <section id="about">
         <h2>Skills</h2>
         <div class="skills-container">
-            <div class="skill-box">R</div>
-            <div class="skill-box">Python</div>
-            <div class="skill-box">Excel</div>
+            <div class="skill-box">Public Speaking</div>
+            <div class="skill-box">Critical Thinking</div>
+            <div class="skill-box">Microsoft Word</div>
         </div>
     </section>
 </body>
